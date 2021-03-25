@@ -3,4 +3,4 @@
 ## 標題
 可以寫字
 可以放圖片
-！[image](IMG_5045.PNG)
+![image](IMG_5045.PNG)
